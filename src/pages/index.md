@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'The loving, adorable, and completely impatient husky!'
     actions:
-      - label: Let's talk
+      - label: Twitter
         url: /contact
         style: button
   - section_id: latest-projects
