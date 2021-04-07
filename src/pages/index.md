@@ -11,7 +11,7 @@ sections:
         style: button
         icon: twitter
         new_window: true
-      - label: lorem-ipsum
+      - label: Join the Doghouse Discord
         url: '#'
         style: link
         icon: dribbble
