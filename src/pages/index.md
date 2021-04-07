@@ -13,7 +13,7 @@ sections:
         new_window: true
       - label: Join the Doghouse Discord
         url: 'https://discord.gg/rhJ6eYpTms'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
