@@ -7,7 +7,7 @@ sections:
     title: 'The loving, adorable, and completely impatient husky!'
     actions:
       - label: Twitter
-        url: /contact
+        url: 'https://twitter.com/colby_husky'
         style: button
   - section_id: latest-projects
     type: section_portfolio
